@@ -41,17 +41,15 @@ ADAPT plan to add the following features in future releases:
 
 - Additional IDEA 616 and 618 Parts B and C data collections in the future:
   - 618 Part B
-    - Assessment (2025 Q3)
-    - Personnel (2025 Q3)
-    - Discipline (2025 Q3)
-    - Exiting (2025 Q3)
-    - Dispute resolution (2026 Q3)
-    - MOE Reduction and CEIS (2026 Q4)
+    - Assessment (v1.1)
+    - Personnel (v1.1)
+    - Discipline (v1.1)
+    - Exiting (v1.1)
+    - SPP/APR (v1.2)
   - 618 Part C
-    - Dispute resolution (2026 Q3)
-    - Exiting (2026 Q3)
-  - 616 Part B and C – SPP/APR (2025 Q4)
-- Language options for ADAPT Viewer (2025 Q2)
+    - Exiting (v1.1)
+    - SPP/APR (v1.2)
+  - Language options for ADAPT Viewer (v1.3)
 
 ## Getting Started
 
